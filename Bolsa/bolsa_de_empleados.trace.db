@@ -1,0 +1,3 @@
+2023-03-25 15:29:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]

@@ -1,0 +1,21 @@
+2023-03-25 18:23:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 18:24:04 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 18:24:05 jdbc[5]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 18:27:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 18:33:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 19:01:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
+2023-03-25 19:03:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ASPIRANTES" not found (this database is empty); SQL statement:
+INSERT INTO `Aspirantes` (`Cedula` ,`nombre` ,`experienciaA` ,`profesion` ,`telefono` ) VALUES (?,?,?,?,?) [42104-214]
